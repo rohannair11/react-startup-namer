@@ -1,4 +1,6 @@
 # react-startup-namer
+[website](https://ubiquitous-bombolone-43f3fe.netlify.app/)
+
 React App for naming startups (or anything that needs a catchy name lol)
 
 make sure node and npm is installed on your system. 
